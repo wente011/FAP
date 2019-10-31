@@ -4,4 +4,6 @@
 
 This is a tool I created to be able to decode VINs in the State's fleet. This can provide valuable information for comparing data in the National Highway Traffic and Safety Admin vs. what is in the system. 
 
+The tool pulls API data from the NHSTA and then can package it up in a dataframe. 
+
 ***
